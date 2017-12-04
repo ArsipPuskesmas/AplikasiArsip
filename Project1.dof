@@ -95,7 +95,7 @@ UnitOutputDir=
 PackageDLLOutputDir=
 PackageDCPOutputDir=
 SearchPath=
-Packages=vcl;rtl;dbrtl;inet;inetdb;dsnap;bdertl;vclx;vcldb;vcldbx;visualclx;visualdbclx;vclactnband;vclshlctrls;vclie;xmlrtl;inetdbbde;inetdbxpress;webdsnap;soaprtl;websnap;adortl;dbexpress;dsnapcon;dbxcds;teeui;teedb;tee;dss;indy;VclSmp;qrpt;teeqr;Rave50CLX;Rave50VCL;IntrawebDB_50_70;Intraweb_50_70;VclNewlyext;frx7;frxADO7;frxBDE7;frxcs7;frxDB7;frxDBX7;frxe7;frxIBX7;frxTee7;fs7;fsADO7;fsBDE7;fsDB7;fsIBX7;fsTee7
+Packages=
 Conditionals=
 DebugSourceDirs=
 UsePackages=0
@@ -108,7 +108,7 @@ DebugCWD=
 [Language]
 ActiveLang=
 ProjectLang=
-RootDir=
+RootDir=C:\Program Files (x86)\Borland\Delphi7\Bin\
 [Version Info]
 IncludeVerInfo=0
 AutoIncBuild=0
@@ -121,7 +121,5 @@ PreRelease=0
 Special=0
 Private=0
 DLL=0
-Locale=1033
+Locale=1057
 CodePage=1252
-[Excluded Packages]
-c:\program files (x86)\borland\delphi7\Bin\dclib70.bpl=InterBase Data Access Components
